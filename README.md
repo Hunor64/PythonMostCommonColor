@@ -1,0 +1,2 @@
+# PythonMostCommonColor
+This code is a Python script that prompts the user to enter the path of an image file, then uses the PIL library to open the image and analyze its pixels. It counts the occurrences of each color in the image using a collections.Counter object, and then returns the most frequently occurring color. The script then prints the most common color in the format "#RRGGBB" and RGB format. Finally it waits for user input before exiting the program.
